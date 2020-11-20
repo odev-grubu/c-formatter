@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Nov 19 23:14:54 2020
-
-@author: Aslih
-"""
-
 class ArrayQueue:
   """FIFO queue implementation using a Python list as underlying storage."""
   DEFAULT_CAPACITY = 20          # moderate capacity for all new queues
