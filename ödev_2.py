@@ -75,7 +75,7 @@ def tab_(filename):
       
     hedef.close() 
   
-filename = "cdosyasi.txt"
+filename = "source.c"
 tab_(filename)  #call
    
 with open(filename) as file: 
